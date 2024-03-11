@@ -2,7 +2,7 @@ package java_basic_programs;
 
 import java.util.Scanner;
 
-public class armstring_number {
+public class armstrong_number {
     public static void main(String[] args){
         System.out.println("Please enter a number: ");
         Scanner scan_number = new Scanner(System.in);
